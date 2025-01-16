@@ -1,5 +1,5 @@
 {
-  "name": "golden-age-account-recovery-tool",
+  "name": "iron-age-account-recovery-tool",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "quais": "^1.0.0-alpha.17"
+    "fs": "^0.0.1-security",
+    "papaparse": "^5.5.1",
+    "quais": "^0.1.17"
   }
 }
