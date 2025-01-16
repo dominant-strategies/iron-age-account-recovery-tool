@@ -4,7 +4,7 @@ const fs = require("fs");
 const Papa = require("papaparse");
 
 const ADDRESSES_FILE = "addresses.csv";
-const LIMIT = 1000;
+const LIMIT = 2000;
 const MAX_INDEX = 1000000000; // 1 billion
 const COIN_TYPES = [1, 60, 994];
 
